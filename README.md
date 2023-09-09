@@ -49,7 +49,7 @@ pip install pandas .... + as many as you need to downlaod
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
