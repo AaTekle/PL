@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my Football Match BPL Data Analysis/Visualization/Modeling Project! This project is a comprehensive exploration of football match data, aimed at gaining valuable insights into the beautiful game. Leveraging a rich dataset containing match statistics, scores, attendance, and other pertinent details, we employ a variety of data analysis, visualization, and machine learning techniques to uncover hidden patterns and trends.
+Welcome to my  BPL Data Analysis/Data Visualization/ML Modeling Project! This project is a comprehensive exploration of football match data, aimed at gaining valuable insights into the beautiful game. Leveraging a rich dataset containing match statistics, scores, attendance, and other details, I employ a variety of data analysis, visualization, and machine learning techniques to uncover hidden patterns and trends.
 
 ## Project Objectives
 
