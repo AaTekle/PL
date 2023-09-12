@@ -12,7 +12,7 @@ The primary objectives of this project are as follows:
 
 - **Predictive Modeling**: Build machine learning models to predict match outcomes and attendance based on historical data, providing valuable insights for teams, venues, and fans.
 
-- **Data Cleaning:**: Addressed missing values, ensuring that my analyses was based on complete and accurate information. Identifying and handling outliers to prevent them from skewing my results. Data preprocessing techniques were applied to maintain the integrity of my analyses of the data.
+- **Data Cleaning**: Addressed missing values, ensuring that my analyses was based on complete and accurate information. Identifying and handling outliers to prevent them from skewing my results. Data preprocessing techniques were applied to maintain the integrity of my analyses of the data.
 
 ## Dataset Description
 
