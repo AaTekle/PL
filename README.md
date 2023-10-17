@@ -1,5 +1,5 @@
 # BPL Data Analysis/Visualization/Modeling
-![BPL]([image link](https://aarontekle.vercel.app/BPL%20Logo.png))
+![BPL Logo](https://aarontekle.vercel.app/BPL%20Logo.png)
 
 
 ## Overview
